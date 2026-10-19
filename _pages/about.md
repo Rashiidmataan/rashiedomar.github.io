@@ -11,13 +11,13 @@ redirect_from:
 
 Hello!
 
-I'm Abdirashid Omar, a computer vision, Earth observation, and GeoAI researcher based in Somalia. I completed an MBA (Data Science) at Kookmin University in 2026 through the Global Korea Scholarship. My work sits at the intersection of computer vision, remote sensing, geospatial analytics, and data-driven public impact.
+I'm Abdirashid Omar, a computer vision researcher from Somalia. I completed a research master's in Data Science at Kookmin University in 2026 (formally an MBA in Data Science), supported by the Global Korea Scholarship.
 
-I build reproducible AI and data systems that turn satellite imagery, public datasets, text data, and urban signals into models, maps, dashboards, and decision-support insights. My projects include bi-temporal change detection, flood impact mapping, public urban data dashboards, text analytics, and low-resource NLP dataset preparation.
+My research asks how visual models can tell real change apart from changes in how a scene was observed. Most of my work applies deep learning to Earth observation: change detection in aerial and satellite imagery, including CoSA (IEEE Access, 2026) and UrbanCDNet, and flood mapping with Sentinel-1 and Sentinel-2. I have also worked on scenes with people, including multi-camera person re-identification and pose estimation, and I now work with 3D data from repeated drone surveys of mining sites.
 
-My research focuses on deep learning for remote sensing and computer vision, including bi-temporal change detection, semantic segmentation, domain adaptation, and reproducible evaluation. My applied work includes geospatial analysis, data pipelines, interactive dashboards, and visual storytelling.
+I care about careful evaluation: auditing data before training, locking test splits, and releasing code with each paper.
 
-I am now preparing for PhD research across Earth observation, GeoAI, computer vision, urban and environmental AI, and spatial data science. I wrote more about the transition in [Graduating from Kookmin University: Building a Research Path in Vision AI and GeoAI](/blog/kookmin-graduation/).
+I am now looking for a PhD in computer vision, focused on scene understanding and change over time, in 2D and 3D. I wrote more about the transition in [Graduating from Kookmin University: Building a Research Path in Vision AI and GeoAI](/blog/kookmin-graduation/).
 
 # Featured work
 
